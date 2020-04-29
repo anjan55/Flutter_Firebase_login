@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091238220429",
+    "firebase_url": "https://remotecoder-910eb.firebaseio.com",
+    "project_id": "remotecoder-910eb",
+    "storage_bucket": "remotecoder-910eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091238220429:android:75bc83c857763c638e88c4",
+        "android_client_info": {
+          "package_name": "com.codehack.roomhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091238220429-a1g9rnps6qgj7ka5mbhi1v04t6lmhvnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codehack.roomhunter",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1091238220429-fl5e1db66h3eu53nlgg1kfejp6kingi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPguCDyD5you8Kq-036kQqZQXDt7J-siE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091238220429-fl5e1db66h3eu53nlgg1kfejp6kingi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
